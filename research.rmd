@@ -1,0 +1,45 @@
+---
+title: "Published Works"
+---
+
+Last updated: `r Sys.Date()`
+
+My research falls under three broad themes: statistics and data science education, statistical modeling, and consulting. 
+
+## Statistics and data science education
+
+["The State of Statistics Education Research in Client Disciplines: Themes and Trends Across the University"](https://amstat.tandfonline.com/doi/full/10.1080/10691898.2019.1687369) (2019). _Journal of Statistics Education_.
+
+- This paper summarizes __current trends in statistics education research in non-statistical disciplines__ such as nursing, psychology, biology, and business. Themes that are prevalent in statistics education journals such as simulation-based inference, incorporating data science and modern statistical methods, and teaching with new technology are, for the most part, absent from the literature beyond statistics. Instead, statistics educators and current research in outside disciplines are more concerned about student performance, statistics anxiety, and classroom pedagogy. __Based on this, I believe that there is still much to be done to connect communities of statistics educators across the university.__
+
+["Life on an Island: Using Peer Consulting in Applied Statistics Courses"](https://www.tandfonline.com/doi/full/10.1080/09332480.2017.1406763) (2017). _CHANCE: Teaching Statistics in the Health Sciences_ column.
+
+- In this paper I discussed several practical models for introducing student-to-student, or __peer consulting__ into a statistics program. Peer consulting is a great way to get students engaged in the statistical process, through either working with a consultant to complete an investigative project or serving as a consultant themselves. Through these projects students learned valuable professional and interpersonal skills not typically taught in the statistics classroom.
+
+["Developing a First-Year Seminar Course in Statistics and Data Science"](https://iase-web.org/documents/papers/rt2016/Schwab.pdf) (2016), _International Association of Statistics Educators Roundtable Conference Proceedings_.
+
+- This paper details the development of CORE 100: Life in the Data Deluge. This course was a __first-year seminar-style course about the implications of life in the era of big data__. CORE 100 was taught in Fall 2016 at Xavier University. Plans to evaluate and further refine the course were shelved after I took a position at Creighton the following year.
+
+## Spatial statistics and statistical modeling
+
+During my PhD work, I developed a kriging model for spatially correlated proportional data using the beta-binomial distribution. Despite the relative mathematical simplicity of the model, it was shown to outperform other options in terms of predictive accuracy.
+
+Articles related to this work include:
+
+["Emerging patterns in multi-sourced data modeling uncertainty"](https://www.sciencedirect.com/science/article/abs/pii/S2211675316300239) (2016) _Spatial Statistics_.
+
+- Joint work with Alexander Kolovos, Lynette Smith, Sarah Gengler, and Hwa-Lung Yu
+
+["Beta-Binomial Kriging: An Improved Model for Spatial Rates"](https://www.sciencedirect.com/science/article/pii/S1878029615003138) (2015) _Procedia Environmental Sciences_.
+
+- Joint work with David Marx (published as "Aimee Schwab")
+
+Since then, I have shifted focus to generalized linear mixed models with a spatial correlation structure, and attempts to improve computational efficiency without sacrificing accuracy. Most recently, Creighton graduate Mark May (2020) completed testing in this area under my supervision.
+
+## Statistical consulting
+
+A significant part of my research time is devoted to statistical consulting. Some papers I've served as a statistical consultant or co-PI on include:
+
+- Patricia Soto, India A. Claflin, Alyssa L. Bursott, Aimee D. Schwab-McCoy & Jason C. Bartz (2020) ["Cellular prion protein gene polymorphisms linked to differential scrapie susceptibility correlate with distinct residue connectivity between secondary structure elements"](https://www.tandfonline.com/doi/abs/10.1080/07391102.2019.1708794), _Journal of Biomolecular Structure and Dynamics_, DOI: 10.1080/07391102.2019.1708794
+
+- Reo J.F. Jones, Margaret M. Hansen, Mahmoud Kaddoura, Aimee Schwab-McCoy & Kirsten Tocchini (2018) ["The incidence of nursing students' perceived stress and burnout levels at a private university in California"](sciedupress.com/journal/index.php/jnep/article/view/13336), _Journal of Nursing Education and Practice_, DOI: 10.5430/jnep.v8n10p138

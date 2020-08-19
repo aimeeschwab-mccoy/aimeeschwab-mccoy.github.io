@@ -11,11 +11,11 @@
 
 
 
-<title>About Me</title>
+<title>Published Works</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -70,6 +70,7 @@ h6 {
 }
 </style>
 
+<link rel="stylesheet" href="style.css" type="text/css" />
 
 
 
@@ -274,7 +275,13 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="research.html">Research</a>
+  <a href="research.html">Published Works</a>
+</li>
+<li>
+  <a href="talks.html">Recent Talks</a>
+</li>
+<li>
+  <a href="ongoing.html">Ongoing Projects</a>
 </li>
 <li>
   <a href="about.html">About Me</a>
@@ -314,14 +321,50 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About Me</h1>
+<h1 class="title toc-ignore">Published Works</h1>
 
 </div>
 
 
-<p>Hi! My name is Aimee Schwab-McCoy and I’m an Assistant Professor of Statistics at Creighton University. At Creighton, I serve as the Program Director of our major and minor in Data Science, and I teach introductory and upper level courses in statistics, biostatistics, data science, and machine learning.</p>
-<p>I am also a certified RStudio Instructor, and an active researcher in statistics and data science education and curriculum development.</p>
-<p>This website is a work in progress. While I’m working, feel free to check out my CV <a href="files/AimeeSchwabMcCoy_CV.pdf">here</a>.</p>
+<p>Last updated: 2020-08-19</p>
+<p>My research falls under three broad themes: statistics and data science education, statistical modeling, and consulting.</p>
+<div id="statistics-and-data-science-education" class="section level2">
+<h2>Statistics and data science education</h2>
+<p><a href="https://amstat.tandfonline.com/doi/full/10.1080/10691898.2019.1687369">“The State of Statistics Education Research in Client Disciplines: Themes and Trends Across the University”</a> (2019). <em>Journal of Statistics Education</em>.</p>
+<ul>
+<li>This paper summarizes <strong>current trends in statistics education research in non-statistical disciplines</strong> such as nursing, psychology, biology, and business. Themes that are prevalent in statistics education journals such as simulation-based inference, incorporating data science and modern statistical methods, and teaching with new technology are, for the most part, absent from the literature beyond statistics. Instead, statistics educators and current research in outside disciplines are more concerned about student performance, statistics anxiety, and classroom pedagogy. <strong>Based on this, I believe that there is still much to be done to connect communities of statistics educators across the university.</strong></li>
+</ul>
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/09332480.2017.1406763">“Life on an Island: Using Peer Consulting in Applied Statistics Courses”</a> (2017). <em>CHANCE: Teaching Statistics in the Health Sciences</em> column.</p>
+<ul>
+<li>In this paper I discussed several practical models for introducing student-to-student, or <strong>peer consulting</strong> into a statistics program. Peer consulting is a great way to get students engaged in the statistical process, through either working with a consultant to complete an investigative project or serving as a consultant themselves. Through these projects students learned valuable professional and interpersonal skills not typically taught in the statistics classroom.</li>
+</ul>
+<p><a href="https://iase-web.org/documents/papers/rt2016/Schwab.pdf">“Developing a First-Year Seminar Course in Statistics and Data Science”</a> (2016), <em>International Association of Statistics Educators Roundtable Conference Proceedings</em>.</p>
+<ul>
+<li>This paper details the development of CORE 100: Life in the Data Deluge. This course was a <strong>first-year seminar-style course about the implications of life in the era of big data</strong>. CORE 100 was taught in Fall 2016 at Xavier University. Plans to evaluate and further refine the course were shelved after I took a position at Creighton the following year.</li>
+</ul>
+</div>
+<div id="spatial-statistics-and-statistical-modeling" class="section level2">
+<h2>Spatial statistics and statistical modeling</h2>
+<p>During my PhD work, I developed a kriging model for spatially correlated proportional data using the beta-binomial distribution. Despite the relative mathematical simplicity of the model, it was shown to outperform other options in terms of predictive accuracy.</p>
+<p>Articles related to this work include:</p>
+<p><a href="https://www.sciencedirect.com/science/article/abs/pii/S2211675316300239">“Emerging patterns in multi-sourced data modeling uncertainty”</a> (2016) <em>Spatial Statistics</em>.</p>
+<ul>
+<li>Joint work with Alexander Kolovos, Lynette Smith, Sarah Gengler, and Hwa-Lung Yu</li>
+</ul>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1878029615003138">“Beta-Binomial Kriging: An Improved Model for Spatial Rates”</a> (2015) <em>Procedia Environmental Sciences</em>.</p>
+<ul>
+<li>Joint work with David Marx (published as “Aimee Schwab”)</li>
+</ul>
+<p>Since then, I have shifted focus to generalized linear mixed models with a spatial correlation structure, and attempts to improve computational efficiency without sacrificing accuracy. Most recently, Creighton graduate Mark May (2020) completed testing in this area under my supervision.</p>
+</div>
+<div id="statistical-consulting" class="section level2">
+<h2>Statistical consulting</h2>
+<p>A significant part of my research time is devoted to statistical consulting. Some papers I’ve served as a statistical consultant or co-PI on include:</p>
+<ul>
+<li><p>Patricia Soto, India A. Claflin, Alyssa L. Bursott, Aimee D. Schwab-McCoy &amp; Jason C. Bartz (2020) <a href="https://www.tandfonline.com/doi/abs/10.1080/07391102.2019.1708794">“Cellular prion protein gene polymorphisms linked to differential scrapie susceptibility correlate with distinct residue connectivity between secondary structure elements”</a>, <em>Journal of Biomolecular Structure and Dynamics</em>, DOI: 10.1080/07391102.2019.1708794</p></li>
+<li><p>Reo J.F. Jones, Margaret M. Hansen, Mahmoud Kaddoura, Aimee Schwab-McCoy &amp; Kirsten Tocchini (2018) <a href="sciedupress.com/journal/index.php/jnep/article/view/13336">“The incidence of nursing students’ perceived stress and burnout levels at a private university in California”</a>, <em>Journal of Nursing Education and Practice</em>, DOI: 10.5430/jnep.v8n10p138</p></li>
+</ul>
+</div>
 
 
 

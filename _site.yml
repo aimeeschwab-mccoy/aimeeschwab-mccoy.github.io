@@ -3,14 +3,14 @@ output_dir: "."
 navbar:
   title: "Aimee Schwab-McCoy"
   left:
-    - text: "Research"
+    - text: "Published Works"
       href: research.html
-    - text: "Teaching"
-      href: teaching.html
-    - text: "Current projects"
-      href: projects.html
-    - text: "CV"
-      href: CV.html
+    - text: "Recent Talks"
+      href: talks.html
+    - text: "Ongoing Projects"
+      href: ongoing.html
+    - text: "About Me"
+      href: about.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -22,4 +22,5 @@ navbar:
       href: https://www.linkedin.com/in/aimeeschwab/
 output:
   html_document:
-    theme: paper
+    theme: cosmo
+    css: 'style.css'
