@@ -1,0 +1,36 @@
+---
+title: "Teaching"
+---
+
+Last updated: `r Sys.Date()`
+
+This semester I am teaching two courses at Creighton:
+
+- __MTH 361__: Probability and Statistics in the Health Sciences
+- __MTH 561__: Mathematical Statistics I
+
+Both courses are being taught completely online, and you can find recordings of my lecture videos on [my YouTube channel](https://www.youtube.com/user/aimeeds2005). Selected course material is also available on [Github](https://github.com/aimeeschwab-mccoy).
+
+While working at Creighton, I've taught or developed the following courses...
+
+- MTH 161: Business Statistics
+- MTH 205: Mathematics for the Modern World
+- MTH 245: Calculus I
+- MTH 360: Elementary Probability and Statistics
+- MTH 361: Probability and Statistics in the Health Sciences
+- MTH 362: Statistical Modeling
+- MTH 365: Introduction to Data Science
+- MTH 366: Machine Learning
+- MTH 561: Mathematical Statistics I
+- MTH 562: Mathematical Statistics II
+
+I've also taught...
+
+- MATH 116: Introduction to Statistics (Xavier)
+- MATH 516: Introduction to Statistics (Xavier, graduate-level)
+- MATH 311: Probability Theory (Xavier)
+- MATH 312: Statistical Inference (Xavier)
+- CORE 100: Life in the Data Deluge (Xavier)
+- STAT 218: Introduction to Statistics (Nebraska)
+- STAT 318: Introduction to Statistics II (Nebraska)
+- STAT 432/832: Spatial Statistics (Nebraska)

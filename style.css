@@ -40,3 +40,8 @@ h2, h3{
 a, a > code {
   color: #019cdb;
 }
+
+.navbar {
+    color: #FFFFFF;
+    background-color: #0054a6;
+}

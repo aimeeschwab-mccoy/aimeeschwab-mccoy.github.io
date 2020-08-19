@@ -1,0 +1,24 @@
+---
+title: "Recent Talks"
+---
+
+Last updated: `r Sys.Date()`
+
+I like to talk a lot. Thanks to COVID-19, a lot of these talks are now online! 
+
+["useR!2020: Moving backwards with R"](https://www.youtube.com/watch?v=hPQwGyc9SGA&list=PLXvc8nug4yt0bYG0GtpsXSfZ2ukPoE3Vd&index=3) (2020): Aimee Schwab-McCoy
+
+- This talk was part of the 2020 virtual useR! symposium in July 2020. In this video I describe how backward course design can be effectively used to design purposeful data science, statistics, and R learning experiences.
+
+["Data Science 101: Is a consensus curriculum on the horizon"](https://www.youtube.com/watch?v=SzWy3a-yy8g&list=PLXvc8nug4yt0bYG0GtpsXSfZ2ukPoE3Vd&index=2&t=0s) (2020): Aimee Schwab-McCoy, Catherine Baker, and Rebecca Gasper
+
+- This talk is based on a forthcoming _Journal of Statistics Education_ article describing the findings of a survey of data science educators in mathematics, computer science, and statistics, and was part of the UC Berkeley Workshop on Data Science Education in July 2020.
+
+
+["Data Science Education in 2020: Computing, Curricula, and Challenges for the Next 10 Years"](files/SDSS_Schwab-McCoy.pdf) (2020): Aimee Schwab-McCoy, Catherine Baker, and Rebecca Gasper.
+
+- This talk was based on the same forthcoming _JSE_ article, and given at the Symposium on Data Science and Statistics in June 2020.
+
+["Using Subsemble-Style Estimation to Model Spatial Parameters in GLMMs with Non-Disjoint Samples"](files/poster_CSP2020_ASchwab-McCoy.html) (2020): Aimee Schwab-McCoy and Mark May.
+
+- This poster presents the results of using subsemble estimation to fit spatial generalized linear mixed models in R.
