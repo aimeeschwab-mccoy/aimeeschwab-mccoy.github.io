@@ -4,7 +4,7 @@ title: "Recent Talks"
 
 Last updated: `r Sys.Date()`
 
-I like to talk a lot. Thanks to COVID-19, a lot of these talks are now online! 
+I like to talk a lot. Thanks to COVID-19, many of these talks are now online! 
 
 ["useR!2020: Moving backwards with R"](https://www.youtube.com/watch?v=hPQwGyc9SGA&list=PLXvc8nug4yt0bYG0GtpsXSfZ2ukPoE3Vd&index=3) (2020): Aimee Schwab-McCoy
 
@@ -22,3 +22,5 @@ I like to talk a lot. Thanks to COVID-19, a lot of these talks are now online!
 ["Using Subsemble-Style Estimation to Model Spatial Parameters in GLMMs with Non-Disjoint Samples"](files/poster_CSP2020_ASchwab-McCoy.html) (2020): Aimee Schwab-McCoy and Mark May.
 
 - This poster presents the results of using subsemble estimation to fit spatial generalized linear mixed models in R.
+
+For a full list of what I've been up to lately, check out my CV [here](files/AimeeSchwabMcCoy_CV.pdf).
