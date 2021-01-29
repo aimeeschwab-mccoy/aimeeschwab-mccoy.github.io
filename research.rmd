@@ -8,6 +8,10 @@ My research falls under three broad themes: statistics and data science educatio
 
 ## Statistics and data science education
 
+["Data Science in 2020: Computing, Curricula, and Challenges for the Next 10 Years"](https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1851159). _Journal of Statistics Education_.
+
+- In this paper, my co-authors (Catie Baker and Rebecca Gasper) and I explore the findings from a survey of data science instructors and programs in the United States. __We explore current trends and practices, as well as challenges instructors face while developing new data science courses and programs.__ We also discuss how data science courses are a natural extension of the need to better incorporate computing concepts in the statistics curriculum, and propose areas for future growth.
+
 ["The State of Statistics Education Research in Client Disciplines: Themes and Trends Across the University"](https://amstat.tandfonline.com/doi/full/10.1080/10691898.2019.1687369) (2019). _Journal of Statistics Education_.
 
 - This paper summarizes __current trends in statistics education research in non-statistical disciplines__ such as nursing, psychology, biology, and business. Themes that are prevalent in statistics education journals such as simulation-based inference, incorporating data science and modern statistical methods, and teaching with new technology are, for the most part, absent from the literature beyond statistics. Instead, statistics educators and current research in outside disciplines are more concerned about student performance, statistics anxiety, and classroom pedagogy. __Based on this, I believe that there is still much to be done to connect communities of statistics educators across the university.__
@@ -34,7 +38,7 @@ Articles related to this work include:
 
 - Joint work with David Marx (published as "Aimee Schwab")
 
-Since then, I have shifted focus to generalized linear mixed models with a spatial correlation structure, and attempts to improve computational efficiency without sacrificing accuracy. Most recently, Creighton graduate Mark May (2020) completed testing in this area under my supervision.
+Since then, I have shifted focus to generalized linear mixed models with a spatial correlation structure, and attempts to improve computational efficiency without sacrificing accuracy. Most recently, Creighton graduate Mark May (2020) completed several simulation studies in this area, and presented his results at the Joint Statistical Meetings.
 
 ## Statistical consulting
 

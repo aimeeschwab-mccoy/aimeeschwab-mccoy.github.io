@@ -4,12 +4,15 @@ title: "Teaching"
 
 Last updated: `r Sys.Date()`
 
-This semester I am teaching two courses at Creighton:
+This semester I am teaching three courses at Creighton:
 
 - __MTH 361__: Probability and Statistics in the Health Sciences
-- __MTH 561__: Mathematical Statistics I
+- __MTH 362__: Statistical Modeling
+- __MTH 366__: Machine Learning
 
-Both courses are being taught completely online, and you can find recordings of my lecture videos on [my YouTube channel](https://www.youtube.com/user/aimeeds2005). Selected course material is also available on [Github](https://github.com/aimeeschwab-mccoy).
+All courses are being taught online due to the pandemic. MTH 361 uses a flipped classroom approach, and recordings of my lecture videos on [my YouTube channel](https://www.youtube.com/user/aimeeds2005). MTH 362 and MTH 366 are synchronous online courses.
+
+Selected course material is also available on [Github](https://github.com/aimeeschwab-mccoy).
 
 While working at Creighton, I've taught or developed the following courses...
 

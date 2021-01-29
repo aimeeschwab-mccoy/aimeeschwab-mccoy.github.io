@@ -13,6 +13,7 @@
 
 <title>Published Works</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -24,6 +25,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -69,6 +79,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -287,25 +298,25 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="http://github.com/aimeeschwab-mccoy">
-    <span class="fa fa-github fa-lg"></span>
+    <span class="fas fa-github fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/AimeeSMcCoy">
-    <span class="fa fa-twitter fa-lg"></span>
+    <span class="fas fa-twitter fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/aimeeschwab/">
-    <span class="fa fa-linkedin fa-lg"></span>
+    <span class="fas fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -323,10 +334,14 @@ $(document).ready(function () {
 </div>
 
 
-<p>Last updated: 2020-08-21</p>
+<p>Last updated: 2021-01-29</p>
 <p>My research falls under three broad themes: statistics and data science education, statistical modeling, and consulting.</p>
 <div id="statistics-and-data-science-education" class="section level2">
 <h2>Statistics and data science education</h2>
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/10691898.2020.1851159">“Data Science in 2020: Computing, Curricula, and Challenges for the Next 10 Years”</a>. <em>Journal of Statistics Education</em>.</p>
+<ul>
+<li>In this paper, my co-authors (Catie Baker and Rebecca Gasper) and I explore the findings from a survey of data science instructors and programs in the United States. <strong>We explore current trends and practices, as well as challenges instructors face while developing new data science courses and programs.</strong> We also discuss how data science courses are a natural extension of the need to better incorporate computing concepts in the statistics curriculum, and propose areas for future growth.</li>
+</ul>
 <p><a href="https://amstat.tandfonline.com/doi/full/10.1080/10691898.2019.1687369">“The State of Statistics Education Research in Client Disciplines: Themes and Trends Across the University”</a> (2019). <em>Journal of Statistics Education</em>.</p>
 <ul>
 <li>This paper summarizes <strong>current trends in statistics education research in non-statistical disciplines</strong> such as nursing, psychology, biology, and business. Themes that are prevalent in statistics education journals such as simulation-based inference, incorporating data science and modern statistical methods, and teaching with new technology are, for the most part, absent from the literature beyond statistics. Instead, statistics educators and current research in outside disciplines are more concerned about student performance, statistics anxiety, and classroom pedagogy. <strong>Based on this, I believe that there is still much to be done to connect communities of statistics educators across the university.</strong></li>
@@ -352,7 +367,7 @@ $(document).ready(function () {
 <ul>
 <li>Joint work with David Marx (published as “Aimee Schwab”)</li>
 </ul>
-<p>Since then, I have shifted focus to generalized linear mixed models with a spatial correlation structure, and attempts to improve computational efficiency without sacrificing accuracy. Most recently, Creighton graduate Mark May (2020) completed testing in this area under my supervision.</p>
+<p>Since then, I have shifted focus to generalized linear mixed models with a spatial correlation structure, and attempts to improve computational efficiency without sacrificing accuracy. Most recently, Creighton graduate Mark May (2020) completed several simulation studies in this area, and presented his results at the Joint Statistical Meetings.</p>
 </div>
 <div id="statistical-consulting" class="section level2">
 <h2>Statistical consulting</h2>
@@ -372,7 +387,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
