@@ -6,6 +6,14 @@ Last updated: `r Sys.Date()`
 
 I like to talk a lot. Thanks to COVID-19, many of these talks are now online! 
 
+["Toronto Data Workshop"](https://rohanalexander.com/toronto_data_workshop.html) (2021): Aimee Schwab-McCoy
+
+- The University of Toronto Data Workshop brings weekly speakers to consider best practices in data science. Each semester, members of the data science education community share their experiences in a teaching-focused panel. During this session I discussed the development of the Data Science Program at Creighton University and gave some "tips from the trenches" for data scientists in understaffed programs.
+
+["UNL x-DBER Conference"](https://scimath.unl.edu/x-dber/2021/) (2021): Aimee Schwab-McCoy
+
+- Hosted by the University of Nebraska-Lincoln's Center for Science, Mathematics, and Computer Education, the x-DBER Conference brought together researchers in discipline-based education research (DBER) from across the globe. During this conference, I presented work from a 2019 _Journal of Statistics Education_ article discussing trends in statistics education across the university, and discussed how DBER investigators can benefit from looking beyond their own departments.
+
 ["useR!2020: Moving backwards with R"](https://www.youtube.com/watch?v=hPQwGyc9SGA&list=PLXvc8nug4yt0bYG0GtpsXSfZ2ukPoE3Vd&index=3) (2020): Aimee Schwab-McCoy
 
 - This talk was part of the 2020 virtual useR! symposium in July 2020. In this video I describe how backward course design can be effectively used to design purposeful data science, statistics, and R learning experiences.
