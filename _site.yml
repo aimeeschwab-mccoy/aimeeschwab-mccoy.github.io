@@ -9,6 +9,8 @@ navbar:
       href: talks.html
     - text: "Teaching"
       href: teaching.html
+    - text: "JSM 2021"
+      href: jsm2021.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

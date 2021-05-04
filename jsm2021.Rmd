@@ -1,0 +1,7 @@
+---
+title: "JSM 2021"
+---
+
+Last updated: `r Sys.Date()`
+
+This page will contain information on the Birds of a Feather sessions for the 2021 (remote) Joint Statistical Meetings. We have an exciting slate of 10 virtual discussions for statistics and data science educators planned for August 2021. Check back soon!
