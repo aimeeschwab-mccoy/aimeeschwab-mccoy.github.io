@@ -7,13 +7,14 @@ body { font-family: 'Source Sans Pro' }
 h1 {
   font-family: 'Source Sans Pro';
   font-weight: normal;
-  color: #62b6cb;
+  color: #005E79
 }
 
 h2, h3{
   font-family: 'Source Sans Pro';
   font-weight: normal;
-  color: #62b6cb;
+  color: #38939B
+
 }
 
 
@@ -38,10 +39,10 @@ h2, h3{
 /*Link color*/
 
 a, a > code {
-  color: #62b6cb;
+  color: #005E79
 }
 
 .navbar {
     color: #1f7a8c;
-    background-color: #62b6cb;
+    background-color: #005E79
 }

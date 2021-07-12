@@ -1,7 +1,107 @@
 ---
-title: "JSM 2021"
+title: "JSM 2021 Birds of a Feather"
 ---
 
 Last updated: `r Sys.Date()`
 
-This page will contain information on the Birds of a Feather sessions for the 2021 (remote) Joint Statistical Meetings. We have an exciting slate of 10 virtual discussions for statistics and data science educators planned for August 2021. Check back soon!
+We have an exciting slate of 11 Birds of a Feather discussions taking place over three weeks during this JSM season. Full session descriptions are below. If you're interested in attending any of the discussions, please register at the link below:
+
+[Registration link](https://docs.google.com/forms/d/1teJ-z8998n_dYl1WsA7xU0DbBL7VgeQ-LpOCy1dtWLA/edit)
+
+# Monday, August 2
+
+### Staying Focused on GAISE in Textbook Selection
+
+__Abstract__: A systematic model for selecting a textbook that fits the Guidelines for Assessment and Instruction in Statistics Education (GAISE 2016) criteria. This discussion will provide a methodology and example Excel workbook for ranking and selecting the best textbook for multiple levels of statistics courses. The rubric is broken into two key elements; goals for students and recommendations for teaching. Each text is scored individually with scores summarized on a separate Excel worksheet for easy comparison. This tool has been successfully used at a public two-year and private four-year institutions. Help determine if it would work in other educational settings.
+
+- Time: 12 pm Eastern
+- Discussion Leaders: Beverly Wood and John Griffith
+
+### Challenges and Successes of Emergency Online Teaching: Where Do We Go From Here?
+
+__Abstract__: A year of emergency online teaching has forced many of us to reevaluate our pedagogical approaches. We've considered everything - from assessment and academic integrity to equity and mental health - all while trying to minimize our own burnout. This BoF will be a general discussion about the challenges and successes of teaching emergency online introductory statistics courses. How did you modify teaching strategies over the course of the pandemic? What worked well and what didn't? Finally, how can the successes of online teaching continue to be implemented as we transition back to in-person classes? Should some of these emergency courses remain online? This BoF welcomes any instructor who is interested in sharing their pandemic experience and post-pandemic plans.
+
+- Time: 4:30 pm Eastern
+- Discussion Leaders: Analisa Flores and Lauren Cappiello 
+
+
+# Tuesday, August 3
+
+### Best Practices for Teaching Undergraduate Capstone Courses
+
+__Abstract__: This session is aimed at anyone who has taught or might teach a capstone course for statistics or data science majors. We will share our experiences with designing and running such courses, and we'll discuss what works and what doesn't.
+
+- Time: 1:30 pm Eastern
+- Discussion Leader: Elizabeth Jennings McGuffey
+
+
+### Learning to Write, Writing to Learn: Incorporating Formal Peer Review in Statistics Courses
+
+__Abstract__: This session is aimed at statistics educators who might be interested in incorporating student peer review as part of their courses. Often as instructors we include projects or other large-scale writing assignments in our courses, but don't give students the chance to critically evaluate and assess the work of their peers. However, engaging in formal peer review (which may be evaluated in its own right!) gives students a valuable lesson in applying what they've learned in their courses. Can they critique statistical usage in the field to evaluate data-based claims? Can they provide helpful suggestions that may help their peers, and in doing so, improve their own work? In this Birds of a Feather session, I hope to bring together educators who might be interested in discussing their own experiences in incorporating these sorts of activities in their own classes.
+
+- Time: 4:30 pm Eastern
+- Discussion Leader: Yue Jiang
+
+
+# Wednesday, August 4
+
+### Communicating Causality to Policymakers
+
+__Abstract__: Outside of economics, public policymakers have begun to dip their toes in the waters of causal inferences for guiding policymaking. However, there is much more room for statisticians to influence policy debates. We hope to have applied causal inference experts share success stories of working with policy makers or analysts -- and people interested in hearing these stories -- as well as statisticians who want to brainstorm avenues of future collaborators.
+
+- Time: 4:30 pm Eastern
+- Discussion Leader: Sheridan Grant
+
+
+# Thursday, August 5
+
+### Blogging Data Science in an Introductory Course
+
+__Abstract__: Aspiring Data Scientists are often encouraged to start a blog as a way to practice analyzing and communicating data, but also as a means to create a portfolio that showcases your work and skillset. Additionally, undergraduate Data Science programs have been growing in number over the past decade, equipping students with the tools they need to extract meaningful information from data. The goal of this BoF is to discuss ways in which blogging can be utilized within an Introductory Data Science and Statistics courses to (i) provide students an avenue to analyze and communicate data in a meaningful way, and (ii) encourage creation and maintenance of a data science portfolio.
+
+- Time: 1:30 pm Eastern
+- Discussion Leader: Anthony Scotina
+
+
+# Wednesday, August 11
+
+### Teaching with {tidymodels}
+
+__Abstract__: This session is for people who have used or are planning to use {tidymodels} in their courses. We will discuss pros and cons, when we think it is most beneficial to introduce, and how it integrates with other tools in R. If you haven't used {tidymodels} yet, this discussion could still be valuable, but it might help to look through some examples of using it.
+
+- Time: 1:30 pm Eastern
+- Discussion Leader: Lisa Lendway
+
+### Using Sports to Motivate Statistics and Data Science
+
+__Abstract__: This discussion will bring together individuals interested in using sports data to motivate students to study statistics and data science topics. While sports is not for every student, it does excite and engage a good many students to further their studies in statistics and data science. As part of this conversation, we will talk about available data sources and tools and highlight ways to encourage traditionally underrepresented groups to explore data science via sports. We will discuss the Sports Content for Outreach, Research and Education (SCORE) network and its plans.
+
+- Time: 3:30 pm Eastern
+- Discussion Leader: Michael Schuckers
+
+# Thursday, August 12
+
+### Confounded About Teaching Confounding?
+
+__Abstract__: Introductory statistics teachers: Consider giving your course more authenticity by including confounding. Most students deal with observational data where confounding is often more of an influence than randomness. Yet confounding is absent from most statistics textbooks. Margin of error decreases as sample size increases, but confounder influence remains unchanged. So, the bigger the data, the more important is confounder influence relative to sampling error. Teaching confounding without multivariate regression and without a computer seems most difficult - if not impossible. But simple tools are available. Two weighted-average techniques are introduced: These techniques allow students to work problems. Attendees will discuss the value and teachability of each topic.
+
+- Time: 1:30 pm Eastern
+- Discussion Leader: Milo Schield
+
+### Mentoring Students for Professional Success
+
+__Abstract__: In graduate school, students get mentoring in research from their research advisors. However, students could benefit from additional mentoring in professional development and engagement. We will discuss resources and structures for ensuring this type of mentoring is available to students. Faculty members who are interested in mentoring students for professional success should consider attending this session.
+
+- Time: 3:30 pm Eastern
+- Discussion Leaders: Emily Griffith and Julia Sharp
+
+
+# Monday, August 16
+
+### Teaching Data Science in an Understaffed Program
+
+__Abstract__: In recent years, the number of undergraduate programs in data science and data analytics have exploded. For many small to medium-sized liberal arts schools, these new programs are understaffed and have limited resources. This BoF is designed to bring together faculty who are currently teaching in and/or developing such programs. We will share our experiences and brainstorm ideas for sharing resources, training faculty, and building collaborations.
+
+- Time: 3:00 pm Eastern
+- Discussion Leader: Matt Slifko
+

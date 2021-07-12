@@ -4,7 +4,7 @@ title: "Recent Talks"
 
 Last updated: `r Sys.Date()`
 
-I like to talk a lot. Thanks to COVID-19, many of these talks are now online! 
+Some recent online talks can be found here.
 
 ["Toronto Data Workshop"](https://rohanalexander.com/toronto_data_workshop.html) (2021): Aimee Schwab-McCoy
 

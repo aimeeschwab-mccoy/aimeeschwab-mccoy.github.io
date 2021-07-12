@@ -1,5 +1,5 @@
 ---
-title: "Published Works"
+title: "Research Articles"
 ---
 
 Last updated: `r Sys.Date()`

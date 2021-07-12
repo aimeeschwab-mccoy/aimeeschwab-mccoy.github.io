@@ -3,38 +3,10 @@ title: "Contact Me"
 ---
 
 
-:::: {style="display: flex;"}
 
-::: {}
 
-```{r, echo=FALSE, out.width="80%", fig.align='center'}
-knitr::include_graphics("files/selfie.jpg")
-```
+Email: aimeeschwabmccoy "at" gmail.com 
 
-:::
+Twitter: @AimeeSMcCoy
 
-::: {}
-
-Hi! My name is Aimee Schwab-McCoy and I'm an Assistant Professor of Statistics at Creighton University. At Creighton, I serve as the Program Director of our major and minor in Data Science, and I teach introductory and upper level courses in statistics, biostatistics, data science, and machine learning.
-
-> Beginning in Fall 2021, I will be a Lecturer of Health Informatics and Statistics at the Institute of Technology Sligo (https://www.itsligo.ie/). I will be teaching courses in statistics, data mining, and biostatistics, as well as mentoring graduate students in Health Analytics.
-
-I am also a certified RStudio Instructor, and an active researcher in statistics and data science education and curriculum development. 
-
-My research interests include:
-
-- Statistics education, especially including teaching and learning of biostatistics, data visualization, advanced modeling
-- Data science education and curriculum development
-- Spatial statistics and generalized linear mixed models in R
-- Statistical consulting
-
-My non-research interests include:
-
-- 👨‍👩‍👦 Adventures with my son Link and husband Max
-- 🏞️ Gardening and spending time outdoors
-- 🎮 Gaming (especially Nintendo + PC)
-- 📚 Reading
-
-:::
-
-::::
+Github: @aimeeschwab-mccoy
