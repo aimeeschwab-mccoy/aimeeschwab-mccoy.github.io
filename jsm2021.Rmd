@@ -62,6 +62,14 @@ __Abstract__: Aspiring Data Scientists are often encouraged to start a blog as a
 - Time: 1:30 pm Eastern
 - Discussion Leader: Anthony Scotina
 
+# Tuesday, August 10
+
+### GAISE II and Catalyzing Change: Transforming K-12 Statistics, Data Science, and Math Education
+
+Statistics education is taking a more prominent role in K-12 mathematics education and PK-12 education in general. The American Statistical Association and the National Council of Teachers of Mathematics, through a long standing joint committee, have been collaborating on key documents to catalyze needed transformations in mathematics teaching and learning (including statistics) and define a curriculum framework for PK-12 educational programs to support students achieving data literacy and statistical literacy. Learn about these efforts positively impacting PK-12 education for each and every student.
+
+- Time: 3:30 pm Eastern
+- Discussion Leaders: Trena Wilkerson, Christine Franklin, and David Barnes
 
 # Wednesday, August 11
 
