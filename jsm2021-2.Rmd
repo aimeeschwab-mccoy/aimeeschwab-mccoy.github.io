@@ -1,0 +1,37 @@
+---
+title: "JSM 2021 SSDSE Sessions"
+---
+
+Last updated: `r Sys.Date()`
+
+The ASA Section on Statistics and Data Science Education (SSDSE) is sponsoring several invited, contributed, and topic-contributed sessions at the 2021 Joint Statistical Meetings.
+
+To make things easier for section members, check out the SSDSE-sponsored sessions below! __Participation is open to JSM attendees only.__
+
+- The __[full conference program](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/index.cfm)__ is also available online.
+
+- Thanks to 2021 SSDSE Program Chair Jamie Perrett for compiling this list!
+
+## JSM 2021 Sessions Sponsored and Co-sponsored by Section on Statistics and Data Science Education
+
+All times are US Eastern.
+
+
+Day|Time|ID|Type|Title|Sponsoring organization (if different from SSDSE)
+---|--------|----|---|----------------------------------------|----------
+Sunday, August 8|	3:30pm - 5:20pm	|220329|Invited Panel|	Creating Data For Good (D4G) Programs: Roadmap and Research Highlights|	Social Statistics Section
+Monday, August 9|	10:00am - 11:50am	|220485|Topic Contributed Panel|	Challenging Collaborations and Lessons Learned|	Section on Statistical Consulting
+Monday, August 9|	1:30pm - 3:20pm|	220334|Invited Papers	|Developing and Maintaining Open Source Resources for Statistics and Data Science Education	
+Monday, August 9|	1:30pm - 3:20pm	|220553|Topic Contributed Panel|	Engaging Minority and Underserved Populations in Health Science: Education and Training for Careers in Statistics and Data Science|	Section on Teaching of Statistics in the Health Sciences
+Tuesday, August 10|	10:00am - 11:50am	|220563|Topic Contributed Papers	|Teaching undergraduates and high school students to analyze time series data	
+Tuesday, August 10|	1:30pm - 3:20pm	|220197|Invited Panel|Building and implementing an effective quantitative sciences internship program for undergraduate students	|Section on Statistical Consulting
+Tuesday, August 10|	1:30pm - 3:20pm|	220579|Topic Contributed Panel|	A Smörgåsbord of Data Visualization Methods and Best Practices across Projects, Topics, Tools, and Audiences|Section on Statistical Graphics
+Wednesday, August 11|	10:00am - 11:50am|	220196|Invited Papers|	Teaching and Learning During COVID	
+Wednesday, August 11|	1:30pm - 3:20pm	|220696|Contributed Speed|	Classroom Teaching and Pedagogy	
+Thursday, August 12	|10:00am - 11:50am|	220243|Invited Papers|	R.A. Fisher and Eugenics — Papers	|History of Statistics Interest Group
+Thursday, August 12	|10:00am - 11:50am|	220297|Invited Panel|	Using sports analytics to inspire student interest in statistics and storytelling with data|Section on Statistics in Sports
+Thursday, August 12|	10:00am - 11:50am|	220700|Contributed Speed|Research and Educational Tools	 
+Thursday, August 12|	12:00pm - 1:50pm|	220385|Invited Panel|Strategies for Staying Current: Upskilling Statisticians in the Age of Data Science	
+Thursday, August 12|	12:00pm - 1:50pm|	220328|Invited|	Memorial Session for George W. Cobb|	Memorial
+Thursday, August 12|	4:00pm - 5:50pm	|220332|Invited Panel|Infusing Data Ethics into the Development of Data Users	
+

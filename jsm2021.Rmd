@@ -1,12 +1,14 @@
 ---
-title: "JSM 2021 Birds of a Feather"
+title: "JSM 2021 Birds of a Feather Discussions"
 ---
 
 Last updated: `r Sys.Date()`
 
-We have an exciting slate of 11 Birds of a Feather discussions taking place over three weeks during this JSM season. Full session descriptions are below. If you're interested in attending any of the discussions, please register at the link below:
+We have an exciting slate of twelve  Birds of a Feather discussions taking place over three weeks during this JSM season. Full session descriptions are below. If you're interested in attending any of the discussions, please register at the link below:
 
-[Registration link](https://docs.google.com/forms/d/1teJ-z8998n_dYl1WsA7xU0DbBL7VgeQ-LpOCy1dtWLA/edit)
+__[Registration link](https://docs.google.com/forms/d/1teJ-z8998n_dYl1WsA7xU0DbBL7VgeQ-LpOCy1dtWLA/edit)__
+
+- Links will be added about one week prior to each session - check back soon!
 
 # Monday, August 2
 
@@ -16,6 +18,7 @@ __Abstract__: A systematic model for selecting a textbook that fits the Guidelin
 
 - Time: 12 pm Eastern
 - Discussion Leaders: Beverly Wood and John Griffith
+- Link: TBA
 
 ### Challenges and Successes of Emergency Online Teaching: Where Do We Go From Here?
 
@@ -23,6 +26,7 @@ __Abstract__: A year of emergency online teaching has forced many of us to reeva
 
 - Time: 4:30 pm Eastern
 - Discussion Leaders: Analisa Flores and Lauren Cappiello 
+- Link: TBA
 
 
 # Tuesday, August 3
@@ -33,6 +37,7 @@ __Abstract__: This session is aimed at anyone who has taught or might teach a ca
 
 - Time: 1:30 pm Eastern
 - Discussion Leader: Elizabeth Jennings McGuffey
+- Link: TBA
 
 
 ### Learning to Write, Writing to Learn: Incorporating Formal Peer Review in Statistics Courses
@@ -41,7 +46,7 @@ __Abstract__: This session is aimed at statistics educators who might be interes
 
 - Time: 4:30 pm Eastern
 - Discussion Leader: Yue Jiang
-
+- Link: TBA
 
 # Wednesday, August 4
 
@@ -51,6 +56,7 @@ __Abstract__: Outside of economics, public policymakers have begun to dip their 
 
 - Time: 4:30 pm Eastern
 - Discussion Leader: Sheridan Grant
+- Link: TBA
 
 
 # Thursday, August 5
@@ -61,6 +67,8 @@ __Abstract__: Aspiring Data Scientists are often encouraged to start a blog as a
 
 - Time: 1:30 pm Eastern
 - Discussion Leader: Anthony Scotina
+- Link: TBA
+
 
 # Tuesday, August 10
 
@@ -70,6 +78,8 @@ Statistics education is taking a more prominent role in K-12 mathematics educati
 
 - Time: 3:30 pm Eastern
 - Discussion Leaders: Trena Wilkerson, Christine Franklin, and David Barnes
+- Link: TBA
+
 
 # Wednesday, August 11
 
@@ -79,6 +89,8 @@ __Abstract__: This session is for people who have used or are planning to use {t
 
 - Time: 1:30 pm Eastern
 - Discussion Leader: Lisa Lendway
+- Link: TBA
+
 
 ### Using Sports to Motivate Statistics and Data Science
 
@@ -86,6 +98,8 @@ __Abstract__: This discussion will bring together individuals interested in usin
 
 - Time: 3:30 pm Eastern
 - Discussion Leader: Michael Schuckers
+- Link: TBA
+
 
 # Thursday, August 12
 
@@ -95,6 +109,8 @@ __Abstract__: Introductory statistics teachers: Consider giving your course more
 
 - Time: 1:30 pm Eastern
 - Discussion Leader: Milo Schield
+- Link: TBA
+
 
 ### Mentoring Students for Professional Success
 
@@ -102,6 +118,7 @@ __Abstract__: In graduate school, students get mentoring in research from their 
 
 - Time: 3:30 pm Eastern
 - Discussion Leaders: Emily Griffith and Julia Sharp
+- Link: TBA
 
 
 # Monday, August 16
@@ -112,4 +129,4 @@ __Abstract__: In recent years, the number of undergraduate programs in data scie
 
 - Time: 3:00 pm Eastern
 - Discussion Leader: Matt Slifko
-
+- Link: TBA
