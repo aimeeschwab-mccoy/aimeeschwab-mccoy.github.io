@@ -8,7 +8,6 @@ We have an exciting slate of twelve  Birds of a Feather discussions taking place
 
 __[Registration link](https://docs.google.com/forms/d/1teJ-z8998n_dYl1WsA7xU0DbBL7VgeQ-LpOCy1dtWLA/edit)__
 
-- Links will be added about one week prior to each session - check back soon!
 
 # Monday, August 2
 
@@ -18,7 +17,7 @@ __Abstract__: A systematic model for selecting a textbook that fits the Guidelin
 
 - Time: 12 pm Eastern
 - Discussion Leaders: Beverly Wood and John Griffith
-- Link: TBA
+- [Zoom link](https://erau.zoom.us/j/9422155399?pwd=aHNFSVBXY2Era1F6ZzlJZllIVEE0Zz09)
 
 ### Challenges and Successes of Emergency Online Teaching: Where Do We Go From Here?
 
@@ -26,7 +25,7 @@ __Abstract__: A year of emergency online teaching has forced many of us to reeva
 
 - Time: 4:30 pm Eastern
 - Discussion Leaders: Analisa Flores and Lauren Cappiello 
-- Link: TBA
+- [Zoom link](https://ucr.zoom.us/j/99485122406?pwd=RDh6Tlppa0dJRlg3Yy9RNS9yZWNEdz09)
 
 
 # Tuesday, August 3
@@ -37,7 +36,7 @@ __Abstract__: This session is aimed at anyone who has taught or might teach a ca
 
 - Time: 1:30 pm Eastern
 - Discussion Leader: Elizabeth Jennings McGuffey
-- Link: TBA
+- [Zoom link](https://riceuniversity.zoom.us/j/92862822919?pwd=SWJZSitVcFB3bHNDM3ExQnhOamg1UT09)
 
 
 ### Learning to Write, Writing to Learn: Incorporating Formal Peer Review in Statistics Courses
@@ -46,7 +45,7 @@ __Abstract__: This session is aimed at statistics educators who might be interes
 
 - Time: 4:30 pm Eastern
 - Discussion Leader: Yue Jiang
-- Link: TBA
+- [Zoom link](http://zoom.com/j/3172019724)
 
 # Wednesday, August 4
 
@@ -56,7 +55,7 @@ __Abstract__: Outside of economics, public policymakers have begun to dip their 
 
 - Time: 4:30 pm Eastern
 - Discussion Leader: Sheridan Grant
-- Link: TBA
+- [Zoom link](https://washington.zoom.us/my/slgstats)
 
 
 # Thursday, August 5
@@ -67,7 +66,7 @@ __Abstract__: Aspiring Data Scientists are often encouraged to start a blog as a
 
 - Time: 1:30 pm Eastern
 - Discussion Leader: Anthony Scotina
-- Link: TBA
+- [Zoom link](https://simmons.zoom.us/j/97847648503)
 
 
 # Tuesday, August 10
@@ -78,7 +77,8 @@ Statistics education is taking a more prominent role in K-12 mathematics educati
 
 - Time: 3:30 pm Eastern
 - Discussion Leaders: Trena Wilkerson, Christine Franklin, and David Barnes
-- Link: TBA
+- [Zoom link](https://nctm.zoom.us/j/99807810802?pwd=LzVtZ2lObFlVWWoxSVV5Lzh2RG4wUT09)
+- Passcode: 894341
 
 
 # Wednesday, August 11
@@ -89,7 +89,7 @@ __Abstract__: This session is for people who have used or are planning to use {t
 
 - Time: 1:30 pm Eastern
 - Discussion Leader: Lisa Lendway
-- Link: TBA
+- [Zoom link](https://macalester.zoom.us/j/95762947245?pwd=RzhFc0FvdmNjQW1ITzdLdnFVbDVMZz09)
 
 
 ### Using Sports to Motivate Statistics and Data Science
@@ -98,7 +98,7 @@ __Abstract__: This discussion will bring together individuals interested in usin
 
 - Time: 3:30 pm Eastern
 - Discussion Leader: Michael Schuckers
-- Link: TBA
+- [Zoom link](https://stlawu.zoom.us/j/98020894413?pwd=MkdxQVlUbU5GOENVMTRTb29zZURnUT09)
 
 
 # Thursday, August 12
@@ -109,7 +109,7 @@ __Abstract__: Introductory statistics teachers: Consider giving your course more
 
 - Time: 1:30 pm Eastern
 - Discussion Leader: Milo Schield
-- Link: TBA
+- [Zoom link](https://augsburg.zoom.us/j/5404394478?pwd=cy94UlZUTEV5VnFZV1pKRU44Vk1vUT09)
 
 
 ### Mentoring Students for Professional Success
@@ -118,7 +118,7 @@ __Abstract__: In graduate school, students get mentoring in research from their 
 
 - Time: 3:30 pm Eastern
 - Discussion Leaders: Emily Griffith and Julia Sharp
-- Link: TBA
+- [Zoom link](https://ncsu.zoom.us/j/93001379984?pwd=NUpZRVp3bExKaWVXcFk1YUhPK1MzQT09)
 
 
 # Monday, August 16
@@ -129,4 +129,4 @@ __Abstract__: In recent years, the number of undergraduate programs in data scie
 
 - Time: 3:00 pm Eastern
 - Discussion Leader: Matt Slifko
-- Link: TBA
+- [Zoom link](https://us02web.zoom.us/s/2093053984)
