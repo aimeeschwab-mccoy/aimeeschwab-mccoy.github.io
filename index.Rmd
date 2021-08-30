@@ -35,7 +35,7 @@ Find me online:
 library(icons)
 ```
 
-- `r fontawesome$solid$envelope` aimeeschwabmccoy "at" gmail.com 
+- `r fontawesome$solid$envelope` Schwab-McCoy.Aimee "at" itsligo.ie
 - `r fontawesome('twitter')` @AimeeSMcCoy
 - `r fontawesome('github')` @aimeeschwab-mccoy
 
