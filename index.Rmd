@@ -11,7 +11,7 @@ knitr::include_graphics("files/selfie.jpg")
 
 ::: {}
 
-Hi! My name is Aimee Schwab-McCoy and I am a Lecturer of Health Informatics and Statistics at the Institute of Technology Sligo (https://www.itsligo.ie/). I will be teaching courses in statistics, data mining, and biostatistics, as well as mentoring graduate students in Health Analytics.
+Hi! My name is Aimee Schwab-McCoy and I'm a professional educator and writer in data science and statistics. After seven years in academia, I am now a Data Science Content Developer (not the YouTube kind...). I create and support interactive learning resources at zyBooks, an online textbook company, for data science, machine learning, and statistics. We've got some awesome new releases coming soon that I can't wait to share with everyone!
 
 I am also a certified RStudio Instructor, and an active researcher in statistics and data science education and curriculum development. 
 
@@ -35,7 +35,7 @@ Find me online:
 library(icons)
 ```
 
-- `r fontawesome$solid$envelope` Schwab-McCoy.Aimee "at" itsligo.ie
+- `r fontawesome$solid$envelope` aimee.schwab-mccoy "at" zybooks.com
 - `r fontawesome('twitter')` @AimeeSMcCoy
 - `r fontawesome('github')` @aimeeschwab-mccoy
 

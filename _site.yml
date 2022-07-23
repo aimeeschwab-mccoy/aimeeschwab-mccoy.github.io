@@ -9,10 +9,10 @@ navbar:
       href: talks.html
     - text: "Teaching"
       href: teaching.html
-    - text: "JSM 2021 BoF Discussions"
-      href: jsm2021.html
-    - text: "JSM 2021 SSDSE Sessions"
-      href: jsm2021-2.html
+#    - text: "JSM 2021 BoF Discussions"
+#      href: jsm2021.html
+#    - text: "JSM 2021 SSDSE Sessions"
+#      href: jsm2021-2.html
 output:
   html_document:
     theme: cosmo
