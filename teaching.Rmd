@@ -4,7 +4,7 @@ title: "Teaching Resources"
 
 Last updated: `r Sys.Date()`
 
-During the Spring 2021 term, I taught:
+### Online course resources
 
 - __MTH 361__: Probability and Statistics in the Health Sciences
 - __MTH 362__: Statistical Modeling
@@ -14,26 +14,34 @@ All courses were taught online due to the pandemic. MTH 361 used a flipped class
 
 Selected course material is also available on [Github](https://github.com/aimeeschwab-mccoy).
 
-While working at Creighton, I taught or developed the following courses...
+## Courses taught by discipline
 
-- MTH 161: Business Statistics
-- MTH 205: Mathematics for the Modern World
-- MTH 245: Calculus I
-- MTH 360: Elementary Probability and Statistics
-- MTH 361: Probability and Statistics in the Health Sciences
-- MTH 362: Statistical Modeling
-- MTH 365: Introduction to Data Science
-- MTH 366: Machine Learning
-- MTH 561: Mathematical Statistics I
-- MTH 562: Mathematical Statistics II
+### Statistics
 
-I've also taught...
+- Introduction to Statistics
+- Introduction to Business Statistics
+- Introduction to Health Statistics
+- Probability and Statistics in the Health Sciences
+- Applied Health Statistics
+- Statistical Modeling
+- Spatial Statistics
+- Probability Theory
+- Statistical Inference
 
-- MATH 116: Introduction to Statistics (Xavier)
-- MATH 516: Introduction to Statistics (Xavier, graduate-level)
-- MATH 311: Probability Theory (Xavier)
-- MATH 312: Statistical Inference (Xavier)
-- CORE 100: Life in the Data Deluge (Xavier)
-- STAT 218: Introduction to Statistics (Nebraska)
-- STAT 318: Introduction to Statistics II (Nebraska)
-- STAT 432/832: Spatial Statistics (Nebraska)
+### Data science
+
+- Introduction to Data Science
+- Machine Learning
+- Big Data in Health
+- Data Visualization
+
+### Mathematics
+
+- Mathematics for the Modern World
+- Calculus I
+
+### Miscellaneous
+
+- Life in the Data Deluge (first-year seminar)
+- Research Methods in Nutrition and Exercise Science
+
